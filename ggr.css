@@ -1,0 +1,22 @@
+
+h1 {
+    color:blue ;
+}
+p {
+    color: green;
+}
+/* Makes all unvisited links purple with no text decoration (i.e. not underlined)*/
+a:link {
+    color: red;
+    text-decoration: none;
+}
+/* Makes all visited links gray and with a line through */
+a:visited {
+    color:yellowgreen;
+}
+/* Makes links purple and bold when hovered over */
+a:hover {
+    color: purple;
+    font-weight: bold;
+    text-decoration: underline;
+}

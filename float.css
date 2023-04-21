@@ -1,0 +1,16 @@
+.container {
+    width: 90%;
+    overflow: scroll;
+  }
+  
+  .left-column {
+    float: inherit;
+    width: 50%;
+    background-color: red;
+  }
+  
+  .right-column {
+    float: right;
+    width: 80%;
+    background-color: blueviolet;
+  }
